@@ -15,6 +15,6 @@
         "Port": 8997,
         "Path": "..\\mongodb",
         "DataPath": "data",
-        "CommandLine": "--bind_ip=127.0.0.1"
+        "CommandLine": "--bind_ip=127.0.0.1 --quiet"
     }
 }
