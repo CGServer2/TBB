@@ -1,0 +1,20 @@
+{
+    "Server": {
+        "Host": "127.0.0.1",
+        "Port": 8996,
+    },
+
+    "Client": {
+        "MongoHost": "localhost",
+        "MongoPort": 27018,
+        "DataPath": "client_data"
+    },
+
+    "Database": {
+        "Host": "127.0.0.1",
+        "Port": 8997,
+        "Path": "..\\mongodb",
+        "DataPath": "data",
+        "CommandLine": "--bind_ip=127.0.0.1"
+    }
+}
