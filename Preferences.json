@@ -8,7 +8,7 @@
         "MongoHost": "localhost",
         "MongoPort": 27018,
         "DataPath": "client_data",
-        "MaxLoginRetryTime": 10
+        "MaxLoginRetryTime": 3
     },
 
     "Database": {
